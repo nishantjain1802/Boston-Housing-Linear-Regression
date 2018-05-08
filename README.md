@@ -35,14 +35,14 @@ index of accessibility to radial highways.
 tax:
 full-value property-tax rate per $10,000.
 
-ptratio:
+pt:
 pupil-teacher ratio by town.
 
-black:
+b:
 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town.
 
 lstat:
 lower status of the population (percent).
 
-medv:
+mv:
 median value of owner-occupied homes in $1000s.
