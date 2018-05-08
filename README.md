@@ -1,9 +1,9 @@
 # Boston-Housing-Linear-Regression
 This is used to analyse the Boston Housing Prices and use Linear Regression Machine Learning Model
-Data description
+# Data description
 The Boston data frame has 506 rows and 14 columns.
 
-This data frame contains the following columns:
+# This data frame contains the following columns:
 
 crim:
 per capita crime rate by town.
